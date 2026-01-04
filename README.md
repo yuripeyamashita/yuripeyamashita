@@ -27,3 +27,5 @@
 > **[2024 馴寶遊戲](https://xmas-hider-2024-nextjs.vercel.app)** - 2024 Xmas Mini-Game
 
 > **[We are traveling](https://we-are-traveling-nextjs.vercel.app)** - AU-wide Mobile Network Health Tracker
+
+> **[2025 聖裝打扮](https://xmas-picker-2025-nextjs.vercel)** - 2025 Xmas Mini-Game
