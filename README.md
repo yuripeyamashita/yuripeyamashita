@@ -21,7 +21,7 @@
 ### 🚀 Recent Works
 > **[國立聯合大學客語 AI 共創平臺](https://gohakka.org)** - Hakka Learning Platform (8,000+ Members)
 
-> **[Talka 阿知牯 LINE AI 聊天機器人](https://line.me/R/ti/p/@984cggiy)** - Immersive Hakka Learning AI Bot
+> **[Talka 阿知牯 LINE AI 聊天機器人](https://line.me/R/ti/p/@984cggiy)** - Immersive Hakka Learning AI Bot (7,000+ Friends)
 
 > **[臺灣客家文化館【餞影】典藏攝影藝術展](https://thcdc.hakka.gov.tw/12205/12214/12215/144098/)** - Interactive Touch-Screen Navigation System
 
