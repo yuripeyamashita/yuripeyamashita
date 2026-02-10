@@ -25,6 +25,8 @@
 
 > **[臺灣客家文化館【餞影】典藏攝影藝術展](https://thcdc.hakka.gov.tw/12205/12214/12215/144098/)** - Interactive Touch-Screen Navigation System
 
+> **[客英大辭典](https://hakkaenglish.gohakka.org)** - Hakka–English Collaborative Dictionary Platform
+
 ### 🧪 Side Projects
 > **[2024 馴寶遊戲](https://xmas-hider-2024-nextjs.vercel.app)** - 2024 Xmas Mini-Game
 
