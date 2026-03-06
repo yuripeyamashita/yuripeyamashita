@@ -23,7 +23,7 @@
 
 > **[LINE【Talka 阿知牯】AI 聊天機器人](https://line.me/R/ti/p/@984cggiy)** - Immersive Hakka Learning AI Bot (7,000+ Friends)
 
-> **[臺灣客家文化館【餞影】典藏攝影藝術展](https://thcdc.hakka.gov.tw/12205/12214/12215/144098/)** - Interactive Touch-Screen Navigation System
+> **[臺灣客家文化館【餞影-典藏攝影藝術展】互動系統](https://thcdc.hakka.gov.tw/12205/12214/12215/144098/#:~:text=將影像結合AI說客語數位科技，打造互動式的影像系統)** - Interactive Touch-Screen Navigation System ([News](https://thcdc.hakka.gov.tw/1240/1241/1258/7372/144294/))
 
 > **[桃園市政府【桃園大客家】AI 客語學習系統](https://taihakka.org/home)** - Immersive Hakka Learning AI Platform ([News](https://www.tycg.gov.tw/NewsPage_Content.aspx?n=10&s=1602497))
 
