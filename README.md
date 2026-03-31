@@ -19,21 +19,26 @@
   ![Render](https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=white)
 
 ### 🚀 Recent Works
-> **[國立聯合大學【客語 AI 共創平臺】](https://gohakka.org)** - Hakka Learning Platform (8,000+ Members)
-
-> **[LINE【Talka 阿知牯】AI 聊天機器人](https://line.me/R/ti/p/@984cggiy)** - Immersive Hakka Learning AI Bot (7,000+ Friends)
-
 > **[臺灣客家文化館【餞影-典藏攝影藝術展】互動系統](https://thcdc.hakka.gov.tw/12205/12214/12215/144098/#:~:text=將影像結合AI說客語數位科技，打造互動式的影像系統)** - Interactive Touch-Screen Navigation System ([News](https://thcdc.hakka.gov.tw/1240/1241/1258/7372/144294/))
 
 > **[桃園市政府【桃園大客家】AI 客語學習系統](https://taihakka.org/home)** - Immersive Hakka Learning AI Platform ([News](https://www.tycg.gov.tw/NewsPage_Content.aspx?n=10&s=1602497))
 
+> **[國立聯合大學【客語 AI 共創平臺】](https://gohakka.org)** - Hakka Learning Platform (8,000+ Members)
+
 > **[國立聯合大學【客英大辭典】共筆系統](https://hakkaenglish.gohakka.org)** - Hakka–English Collaborative Dictionary Platform
 
-### 🧪 Side Projects
-> **[2024 馴寶遊戲](https://xmas-hider-2024-nextjs.vercel.app)** - 2024 Xmas Mini-Game
+> **[國立聯合大學【Talka 阿知牯】LINE AI 聊天機器人](https://line.me/R/ti/p/@984cggiy)** - Immersive Hakka Learning AI Bot (7,000+ Friends)
 
-> **[We are traveling](https://we-are-traveling-nextjs.vercel.app)** - AU-wide Mobile Network Health Tracker
+> **[客家委員會【客語AI應用黑客松創意發想大賽】評審團獎](https://hakkanews.tw/2023/09/18/84323/)** - Judges’ Award, Hakka AI Application Hackathon ([News](https://www.hakkatv.org.tw/news-detail/1712896211680720), [Video](https://www.youtube.com/watch?v=Pwf7zMID2og))
+
+> **[苗栗縣政府【建管寶】Facebook 問答機器人](https://www.facebook.com/profile.php?id=100066565759729&locale=et_EE)** - Facebook Customer Service Chatbot
+
+
+### 🧪 Side Projects
+> **[LINE OA 動態 QR 認證系統](https://yuripeyamashita-line-liff.hf.space/qr)** - LINE OA Dynamic QR Code Verification System
 
 > **[2025 聖裝打扮](https://xmas-picker-2025-nextjs.vercel.app)** - 2025 Xmas Mini-Game
 
-> **[LINE OA 動態 QR 認證系統](https://yuripeyamashita-line-liff.hf.space/qr)** - LINE OA Dynamic QR Code Verification System
+> **[We are traveling](https://we-are-traveling-nextjs.vercel.app)** - AU-wide Mobile Network Health Tracker
+
+> **[2024 馴寶遊戲](https://xmas-hider-2024-nextjs.vercel.app)** - 2024 Xmas Mini-Game
